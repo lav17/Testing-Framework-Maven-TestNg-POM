@@ -1,0 +1,108 @@
+2023-05-26 16:05:13,671 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 16:05:14,293 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 16:05:50,904 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 16:05:51,526 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 16:06:03,728 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 16:06:04,351 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 16:10:21,217 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 16:10:22,163 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 16:17:04,281 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 16:17:08,780 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 16:17:08,878 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 16:17:13,135 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 16:17:19,548 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 16:17:19,639 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 16:17:24,414 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:18:36,954 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:18:42,354 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:18:42,427 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:18:46,461 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:18:53,003 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:18:53,092 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:18:58,443 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:19:44,114 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:19:49,234 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:19:49,330 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:19:53,561 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:20:00,331 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:20:00,438 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:20:05,353 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:21:29,498 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:21:34,365 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:21:34,472 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:21:39,671 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:21:46,370 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:21:46,519 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:21:53,759 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:23:20,506 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:23:25,882 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:23:26,011 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:23:31,068 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:23:41,816 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:23:41,908 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:23:48,157 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed
+2023-05-26 18:23:48,162 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:51:40,645 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:51:46,664 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:51:46,782 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:51:51,759 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:51:59,460 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:51:59,638 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:52:06,963 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-05-26 18:52:06,969 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:56:18,336 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:56:23,883 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:56:23,991 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:56:29,988 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 18:56:38,116 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:56:38,162 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:56:44,843 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-05-26 18:56:44,845 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-05-26 18:59:46,129 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-05-26 18:59:50,269 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 18:59:50,347 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 18:59:56,326 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-05-26 19:00:02,927 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-05-26 19:00:02,997 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-05-26 19:00:11,326 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-05-26 19:00:11,334 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-06-13 12:28:16,464 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-06-13 12:28:22,370 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-13 12:28:22,472 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-13 12:28:30,032 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-13 12:28:31,227 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-13 12:28:31,313 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-13 12:28:38,330 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-13 12:28:38,332 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-06-13 12:31:57,804 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-06-13 12:32:02,860 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-13 12:32:02,962 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-13 12:32:09,114 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-06-13 12:32:16,407 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-13 12:32:16,475 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-13 12:32:27,312 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-13 12:32:27,314 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-06-22 16:35:31,164 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-06-22 16:35:35,618 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-22 16:35:35,726 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-22 16:35:41,793 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-06-22 16:35:48,678 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-22 16:35:48,776 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-22 16:35:55,706 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-22 16:35:55,709 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-06-22 16:38:40,608 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-06-22 16:38:44,563 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-22 16:38:44,663 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-22 16:38:50,755 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-06-22 16:38:56,992 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-22 16:38:57,066 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-22 16:39:04,684 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-22 16:39:04,685 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed
+2023-06-26 16:34:12,297 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser selected is chrome
+2023-06-26 16:34:17,175 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-26 16:34:17,245 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-26 16:34:23,313 [main] INFO  com.demoFramework_v1.testCases.baseClass - Login passed
+2023-06-26 16:34:29,930 [main] INFO  com.demoFramework_v1.testCases.baseClass - user name provided
+2023-06-26 16:34:30,052 [main] INFO  com.demoFramework_v1.testCases.baseClass - password provided
+2023-06-26 16:34:37,693 [main] WARN  com.demoFramework_v1.testCases.baseClass - Login failed - Invalid Credentials
+2023-06-26 16:34:37,696 [main] INFO  com.demoFramework_v1.testCases.baseClass - browser has been closed

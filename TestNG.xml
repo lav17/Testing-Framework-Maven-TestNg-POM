@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="demoFrameworkV1">
+
+  	<listeners>
+		<listener class-name="com.demoFramework_v1.utilities.Reporting" />
+	</listeners>
+  
+  <test name="Banking Login Test">
+      <parameter name="browser" value="chrome"/>
+      <classes>
+        <!-- <class name="com.demoFramework_v1.testCases.TC_LoginTest_01"/> -->
+        <class name="com.demoFramework_v1.testCases.TC_LoginTestDDT_01"/>
+      </classes>
+  </test> 
+
+</suite>

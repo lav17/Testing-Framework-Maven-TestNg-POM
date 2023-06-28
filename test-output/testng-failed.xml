@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [demoFrameworkV1]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.demoFramework_v1.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Banking Login Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.demoFramework_v1.testCases.TC_LoginTestDDT_01">
+        <methods>
+          <include name="SetUp"/>
+          <include name="TearDown"/>
+          <include name="loginDDT" invocation-numbers="1"/>
+        </methods>
+      </class> <!-- com.demoFramework_v1.testCases.TC_LoginTestDDT_01 -->
+    </classes>
+  </test> <!-- Banking Login Test(failed) -->
+</suite> <!-- Failed suite [demoFrameworkV1] -->
